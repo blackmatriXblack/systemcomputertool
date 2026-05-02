@@ -1,0 +1,18 @@
+# ComputerTool Requirements
+# -------------------------
+# ComputerTool primarily uses Python standard library modules.
+# No external packages are required for core functionality.
+#
+# Python 3.7+ required.
+#
+# Optional tools that enhance the experience if installed:
+# - htop (Linux/macOS): Enhanced process viewer
+# - ncdu (Linux/macOS): Interactive disk usage analyzer
+# - neofetch (Linux): System info with ASCII art
+# - iotop (Linux): Disk I/O monitor
+# - nmap (Linux/macOS): Network scanner
+# - iftop (Linux): Bandwidth monitor
+# - glances (Linux/macOS): System dashboard
+# - btm (Linux/macOS): Modern graphical system monitor
+# - mc (Linux/macOS): Midnight Commander file manager
+# - ranger (Linux/macOS): VIM-inspired file manager
